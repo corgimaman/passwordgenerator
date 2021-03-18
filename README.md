@@ -11,8 +11,8 @@ This is a secure random password generator that uses JavaScript prompts to recie
 The password will copy to the user's clipboard once the password textbox area is clicked.
 
 ## How to Use:
-![Initial View of Page](./Screenshots/initial.png)
 1. Click the Generate Password Button
+![Initial View of Page](./Screenshots/initial.png)
 2. A prompt will open asking for how long you'd like your password to be. Please enter this as a numeral value between 8 and 128.
 ![Length Prompt](./Screenshots/enterLength.png)
 3. Next, a series of 4 prompts will run to ask if you'd like lowercase, uppercase, numbers, and symbols to be included in your random password. You don't need all 4, but you do need at least 1.
