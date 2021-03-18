@@ -56,7 +56,7 @@ function getPasswordOptions() {
 
 // function that creates the password:
 
-function generatePassword(lowcase, upcase, numb, symb, pwlength) {
+function generatePassword() {
   // initialize the password string to build on
   let generatedPassword = "";
   let allChoices = [];
